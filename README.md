@@ -1,2 +1,2 @@
-# SuperSimpleDev HTML & CSS Course Lesson 5 Exercises
+# SuperSimpleDev HTML & CSS Course Lesson 6 Exercises
 https://jasonmdyer.github.io/ssd-lesson-6/
